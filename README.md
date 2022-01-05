@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Italo2003 
+- 👀 I am interested in learning and improving my programming skills 
+- 🌱 I’m currently learning python
+- 💞️ I'm looking to collaborate in technology companies, and work to gain experience for people who are willing to teach me.
+- 📫 How to reach me in my email italo4prog@gmail.com
